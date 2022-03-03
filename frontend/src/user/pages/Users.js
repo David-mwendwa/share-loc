@@ -1,7 +1,7 @@
 import React from 'react';
 import UsersList from '../components/UsersList';
 
-const defaultImg = 'https://www.shutterstock.com/image-vector/default-avatar-profile-icon-grey-photo-518740741';
+const defaultImg = 'https://cdn.pixabay.com/photo/2016/08/08/09/17/avatar-1577909_960_720.png';
 const Users = () => {
   const USERS = [
     { id: 'u1', name: 'David', image: defaultImg, places: 3 },
